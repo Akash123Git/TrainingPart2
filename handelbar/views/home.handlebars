@@ -1,0 +1,16 @@
+{{> navbar}}
+<h1>Welome to handle bars</h1>
+{{#with data}}
+    <h1>{{name}}</h1>
+{{/with}}
+{{#each data.place as |p|}}
+    
+    <h2>{{p.firstname}}</h2>
+    
+{{/each}}
+
+{{#if condition}}
+    <h1>true</h1>
+{{else}}
+    <h2>false</h2>
+{{/if}} 

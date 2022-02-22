@@ -1,0 +1,56 @@
+http://mis/RMS/login.jsp
+http://iportal/login
+lms.training-support.net/alchemy
+pa$$w0rd
+https://labs.alchemycloud.co.in
+learn lytica: password
+
+MIS
+LMS
+Mail
+Assessment
+
+EMAIL:
+
+Query regarding updating Time Sheet 
+Hi,
+
+I am Akash A Bootcamper from batch-87, I have made a mistake while filling the time sheet, for the
+first two weeks of september. I have filled it as "Audit" instead of "Traning". it wasn't untill last firday evening 7:00PM i got to know about this.
+
+I apologise for my mistake, i will make sure it doesn't happen again.
+Can i know the procedures to correct my mistake.
+
+Thank you,
+Akash A
+Employee ID: 6049
+Boot Camp Batch-87
+
+-------------------------------------------------------------------------------------------------------------------
+
+Hi Lalith,
+
+I am Akash A from Bootcamp Batch-87. I have made a mistake while filling the time sheet from 30/08/2021 to 09/09/2021.
+I have filled it as "Audit" instead of "Traning". It wasn't until last firday 17/09/2021 evening 7:00PM I got to know about this.
+I had sent a Mail regarding the issue to the IAMT, they informed me to cancel the timesheet and refill it again but the Timesheet is
+already approved.
+
+I apologise for my mistake, I will make sure the same doesn't happen again.
+Can I know the further actions to be taken to resolve this issue.
+
+Thank you,
+Akash A
+Employee ID: 6049
+Boot Camp: Batch-87
+
+-------------------------------------------------------------------------------------------------------------------
+
+Hi ItTeam,
+
+I am Akash A of Bootcamp Batch-87. I had Changed my system password on 4th October-Monday, The new password is
+updated only in the FortiClient VPN and System login is still using the old password. Can i know how to solve this issue?
+
+Thank you,
+Akash A
+Employee ID: 6049
+Boot Camp: Batch-87

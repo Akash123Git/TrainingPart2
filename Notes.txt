@@ -1,0 +1,79 @@
+ var numArr= [50, 35, 67, 99, 87, 45, 23, 72];
+
+     console.log(numArr);
+
+     numArr.push(13); // it will add 13 in last position
+
+      console.log(numArr);
+
+    var x=  numArr.pop(); // it will remove last element and return it
+
+      console.log(numArr);
+
+      console.log("returned "+ x);
+
+      console.log("==============================================");
+
+       numArr.unshift(13); // it will add 13 in first position
+
+      console.log(numArr);
+
+    var y=  numArr.shift(); // it will remove first element and return it
+
+      console.log(numArr);
+
+      console.log("returned "+ y);
+
+       console.log("==============================================");
+
+    var index =   numArr.indexOf(98);
+
+    if(index >= 0){​​​​​
+
+     console.log("found at "+ index);
+
+    }​​​​​
+
+
+var emp=
+    {
+        name :'Shadab Ahmad Khan',
+        salary: 1100,
+        email: 'shadab.khan.2628@gmail.com',
+        phone: '7007586179'
+    }
+    /*
+    console.log(emp['name']);
+    console.log(emp.name);
+
+    console.log(emp.salary);
+    console.log(emp['salary']);
+    */
+    for (key in emp){
+    console.log("KEY -> "+ key);
+    console.log("VALUE -> "+ emp[key]);
+    }
+
+    {​​​​​
+
+    console.log("Not found "+ index);
+
+    }​​​​​
+
+    console.log("==============================================");
+
+    var subArr= numArr.slice(1,5); // it will return an array from index 1 to (5-1)
+
+     console.log("Sub Array is "+ subArr);
+
+     var cloneArr= numArr.slice(); // it wll reurn duplicate copy
+
+     console.log("Clone Array is "+ cloneArr);
+
+1. Write a JS function to find sum of elements present in given array.
+2. Write a JS function to find max element present in given array.
+3. Write a JS function to take an array as argument and print its elements in reverse order.
+
+https://github.com/JShadab/BootCamp
+https://github.com/aryan1403/THBS-Training
+https://github.com/Gourav4hub/alchemycode

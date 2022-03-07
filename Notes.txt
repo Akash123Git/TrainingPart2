@@ -74,6 +74,17 @@ var emp=
 2. Write a JS function to find max element present in given array.
 3. Write a JS function to take an array as argument and print its elements in reverse order.
 
+server.port=9191
+
+spring.datasource.driverClass=com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce
+spring.datasource.username=root
+spring.datasource.password=pass@word1
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.show_sql=true
+
+
 https://github.com/JShadab/BootCamp
 https://github.com/aryan1403/THBS-Training
 https://github.com/Gourav4hub/alchemycode
